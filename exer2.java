@@ -30,7 +30,7 @@ public class exer2{
                 System.out.println("Sábado");
                 break;
             default:
-            System.out.println("Você não sabe ler?");
+            System.out.println("tem certeza?");
             break;
         }
     }
